@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Mireille. Je travaille en français and in English at Concordia University in Canada.
+
 <!--
 **MireillePaquet/MireillePaquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
